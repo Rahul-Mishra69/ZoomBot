@@ -4,7 +4,7 @@ A selenium Powered Bot for attending online classes with ease by automating the 
 
 Requirements:
 
-- chromewebdriver (https://sites.google.com/a/chromium.org/chromedriver/downloads) P.S check your browser version eg.: 8x.xxxx.xx check the about chrome section in the dropdown for your version.
+- chromewebdriver (https://sites.google.com/a/chromium.org/chromedriver/downloads) P.S check your browser version [click on the 3 dots next your extensions -> Help -> About google chrome.]
 - Python 3.6 +
 - selenium library (pip install selenium from your cmd)
 
